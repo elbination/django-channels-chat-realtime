@@ -1,0 +1,10 @@
+- DONE Sign up functionality
+- DONE Log out functionality
+- DONE Log in functionality
+
+- Rooms app:
+    + List view
+    + Detail view
+- Create superuser
+- Creating a consumer
+- Joining a chat
